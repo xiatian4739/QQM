@@ -9,9 +9,7 @@ QT入门小项目-群聊
 
 
 ### 截图
+![主界面](https://github.com/xiatian4739/QQM/blob/main/Picture/zujm.png)
+![聊天界面](https://github.com/xiatian4739/QQM/blob/main/Picture/liaot.png)
+![记录](https://github.com/xiatian4739/QQM/blob/main/Picture/log.png)
 
-<img src="file:///D:/QT_p/QQM/Picture/zujm.png" title="" alt="1" width="228">
-
-<img src="file:///D:/QT_p/QQM/Picture/liaot.png" title="" alt="截图2" width="662">
-
-<img src="file:///D:/QT_p/QQM/Picture/log.png" title="" alt="3" width="512">
